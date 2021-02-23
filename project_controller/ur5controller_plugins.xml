@@ -1,0 +1,5 @@
+<library path="lib/libproject_controller_lib">
+  <class name="project_controller/PosController" 
+         type="controller_ns::PosController"           
+         base_class_type="controller_interface::ControllerBase" />
+</library>
